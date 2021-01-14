@@ -84,7 +84,7 @@ function draw(){
       stroke("yellow")
       textSize(45);
       fill("Black");
-      text("A dark rainy night on the streets of Gotham and then...", 550,250);
+      text("A dark rainy night on the streets of Gotham and power grows and then...", 550,250);
 
       textFont("Freestyle Script");
       strokeWeight(1);
